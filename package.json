@@ -1,0 +1,18 @@
+{
+  "name": "cuckoo-proxy",
+  "version": "1.0.0",
+  "license": "0BSD",
+  "authors": "sebseb7",
+  "main": "proxy.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebseb7/cuckoo-proxy.git"
+  },
+  "dependencies": {
+    "winston": "^2.4.0",
+    "cuckaroo-hashing": "https://github.com/swap-dev/node-cuckaroo-hashing.git"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
